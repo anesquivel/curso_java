@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72a92a88-0c64-4b14-829a-a8369c781df3" name="Changes" comment="Adding exercise 4.">
-      <change afterPath="$PROJECT_DIR$/.pre-commit-config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio5.java" afterDir="false" />
+    <list default="true" id="72a92a88-0c64-4b14-829a-a8369c781df3" name="Changes" comment="Adding pre commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ejercicio4">
+  <component name="RunManager" selected="Application.Ejercicio5">
     <configuration name="Ejercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicio1" />
       <module name="curso_java" />
@@ -85,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operates" />
+    <configuration name="Ejercicio5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio5" />
       <module name="curso_java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio5" />
         <item itemvalue="Application.Ejercicio4" />
         <item itemvalue="Application.Ejercicio3" />
         <item itemvalue="Application.Ejercicio2" />
         <item itemvalue="Application.Ejercicio1" />
-        <item itemvalue="Application.Operates" />
       </list>
     </recent_temporary>
   </component>
@@ -115,8 +113,16 @@
       <workItem from="1663084507861" duration="847000" />
       <workItem from="1663086785088" duration="9838000" />
       <workItem from="1664830815580" duration="5518000" />
-      <workItem from="1666042940757" duration="1124000" />
+      <workItem from="1666042940757" duration="7954000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding pre commit">
+      <created>1666044204002</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666044204002</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,7 +141,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding exercise 4." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding exercise 4." />
+    <MESSAGE value="Adding pre commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding pre commit" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
